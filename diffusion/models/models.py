@@ -3,7 +3,7 @@ from . import cc12m_1, wikiart_256
 
 models = {
     'cc12m_1': cc12m_1.CC12M1Model,
-    #'cc12m_1_cfg': cc12m_1.CC12M1Model,
+    'cc12m_1_cfg': cc12m_1.CC12M1Model,
     #'danbooru_128': danbooru_128.Danbooru128Model,
     #'imagenet_128': imagenet_128.ImageNet128Model,
     #'wikiart_128': wikiart_128.WikiArt128Model,
